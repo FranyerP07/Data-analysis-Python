@@ -42,6 +42,7 @@ analisis-datos-python/
 2. Open `analisis.ipynb` in Google Colab or Jupyter.
 3. Upload `netflix_titles.csv` to the same folder as the notebook. In Colab, the file must be in `/content`.
 4. Run the cells from top to bottom.
+5. **Live demo:** https://netflix-catalogo-franyer.streamlit.app
 
 To run it on your own computer, first install the libraries with `pip install -r requirements.txt`.
 
@@ -97,6 +98,7 @@ analisis-datos-python/
 2. Abre `analisis.ipynb` en Google Colab o en Jupyter.
 3. Sube `netflix_titles.csv` a la misma carpeta del notebook. En Colab, el archivo debe quedar en `/content`.
 4. Ejecuta las celdas de arriba hacia abajo.
+5. **Demo en Vivo:** https://netflix-catalogo-franyer.streamlit.app
 
 Si lo ejecutas en tu computadora, instala primero las librerías con `pip install -r requirements.txt`.
 
